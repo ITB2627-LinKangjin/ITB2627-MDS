@@ -1,0 +1,7 @@
+Recursos del projecte ITB2627-MDS
+
+capturaPython.png: captura de l'execució d'un programa Python.
+guiaEstilPython.pdf: guia d'estil de Python.
+notes.txt: descripció dels recursos afegits al projecte.
+
+Autor: Kangjin Lin
